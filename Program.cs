@@ -7,6 +7,8 @@ namespace EtecAB
         static void Main(string[] args)
         {
             Console.WriteLine("Etec Adolpho Berezin.");
+            Console.WriteLine();
+            Console.WriteLine("Teste pós aula");
         }
     }
 }
